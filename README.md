@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 👨‍💻 All of my projects are available at [https://axel548.github.io/portafolioyt/](https://axel548.github.io/portafolioyt/)
+- 👨‍💻 My portfolio is available at [https://axel548.github.io/portafolioyt/](https://axel548.github.io/portafolioyt/)
 
 - 📫 How to reach me **axel.aatl@gmail.com**
 
