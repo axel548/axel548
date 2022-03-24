@@ -8,16 +8,20 @@
 - 📫 How to reach me **axel.aatl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/axellopez4577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axellopez4577" height="30" width="40" /></a>
-<a href="https://fb.com/axelabel.tuchezlopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="axelabel.tuchezlopez" height="30" width="40" /></a>
-<a href="https://www.behance.net/axelabtuchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="axelabtuchez" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/axel_aatl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="axel_aatl" height="30" width="40" /></a>
-</p>
+<div> 
+    <a href="https://fb.com/axelabel.tuchezlopez" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%233f37c9?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:axel.aatl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%239d0208?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/axellopez4577/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://www.behance.net/axelabtuchez" target="_blank"><img src="https://img.shields.io/badge/-Behance-%2303045e?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+        <a href="https://www.hackerrank.com/axel_aatl" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-%23001d3d?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a> 
+</div>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axel548&show_icons=true&locale=en&theme=radical" alt="axel548" /></p>
+<hr>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axel548&show_icons=true&locale=en&theme=radical" alt="axel548" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel548&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 
