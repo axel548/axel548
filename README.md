@@ -9,23 +9,23 @@
 
 
 
+
+##  Technologies & Tools
+
 <div style="display: inline_block"><br>
     <img align="center" src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php" alt="php" width="70" height="30"/> 
     <img align="center" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python" width="70" height="30"/> 
     <img align="center" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript" alt="javascript" width="90" height="30"/> 
     <img align="center" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="nodejs" width="80" height="30"/> 
     <img align="center" src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin" alt="kotlin" width="70" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel" alt="laravel" width="80" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/--black?style=flat-square&logo=.Net" alt="dotnet" width="40" height="30"/> 
 </div>
 
 <div style="display: inline_block"><br>
     <img align="center" src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux" alt="linux" width="70" height="30"/>
     <img align="center" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="git" width="70" height="30"/> 
     <img align="center" src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNUBash" alt="bash" width="60" height="30"/>
-    <img align="center" src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel" alt="laravel" width="80" height="30"/> 
-    <img align="center" src="https://img.shields.io/badge/--black?style=flat-square&logo=.Net" alt="dotnet" width="40" height="30"/> 
-</div>
-
-<div style="display: inline_block"><br>
     <img align="center" src="https://img.shields.io/badge/-Mondo%20DB-black?style=flat-square&logo=MongoDB" alt="mongodb" width="90" height="30"/> 
     <img align="center" src="https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=MicrosoftSQLServer" alt="mssql" width="80" height="30"/> 
     <img align="center" src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase" alt="firebase" width="80" height="30"/> 
