@@ -7,20 +7,29 @@
 
 - 📫 How to reach me **axel.aatl@gmail.com**
 
+
+
 <div style="display: inline_block"><br>
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-	<img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    <img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img align="center" src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php" alt="php" width="70" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python" width="70" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript" alt="javascript" width="90" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="nodejs" width="80" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin" alt="kotlin" width="70" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux" alt="linux" width="70" height="30"/>
+    <img align="center" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="git" width="70" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=GNUBash" alt="bash" width="60" height="30"/>
+    <img align="center" src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel" alt="laravel" width="80" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/--black?style=flat-square&logo=.Net" alt="dotnet" width="40" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/-Mondo%20DB-black?style=flat-square&logo=MongoDB" alt="mongodb" width="90" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=MicrosoftSQLServer" alt="mssql" width="80" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase" alt="firebase" width="80" height="30"/> 
+</div>
+
+<div style="display: inline_block"><br>
+    <img align="center" src="https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android" alt="android" width="80" height="30"/>
+    <img align="center" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman" alt="postman" width="80" height="30"/>
+    <img align="center" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt="vscode" width="70" height="30"/> 
+    <img align="center" src="https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco" alt="vscode" width="70" height="30"/> 
 </div>
 
 <h3 align="left">Connect with me:</h3>
