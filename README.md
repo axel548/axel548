@@ -3,12 +3,12 @@
 
 - 🌱 I’m currently learning **Node**
 
-- 👨‍💻 My portfolio is available at [https://axel548.github.io/portafolioyt/](https://axel548.github.io/portafolioyt/)
+<!--- 👨‍💻 My portfolio is available at [https://axel548.github.io/portafolioyt/](https://axel548.github.io/portafolioyt/) -->
 
 - 📫 How to reach me **axel.aatl@gmail.com**
 
 
-
+<br>
 
 ##  Technologies & Tools
 
